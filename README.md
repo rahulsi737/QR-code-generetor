@@ -30,3 +30,29 @@ To run this project locally, follow these steps:
    ```sh
    git clone https://github.com/yourusername/qrcode-generator.git
    cd qrcode-generator
+2. **Install dependencies:
+
+   ```sh
+   npm install
+3. **Start the development server:
+
+   ```sh
+   npm start
+# Usage
+1. **Open the application in your browser at http://localhost:3000.
+
+2. **Enter the text you want to encode into the QR code in the input box.
+
+3. **Click the Generate button to create the QR code.
+
+4. **Customize the background color using the color picker.
+
+5. **Adjust the size of the QR code using the range slider.
+
+6. **Download the generated QR code by clicking the Download button.
+
+# Contributing
+**Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+#License
+**This project is licensed under the MIT License. See the LICENSE file for more information.
